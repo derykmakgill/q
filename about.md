@@ -23,7 +23,7 @@ In past lives, I've lectured on economics and career building at universities ar
 
 I live in [redacted].
 
-## Links
+## Links and pages
 
 See what I'm doing [now.](/now)
 
