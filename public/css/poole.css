@@ -400,3 +400,59 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+figure {
+  clear: both;
+  margin: 40px auto;
+  text-align: center;
+}
+
+figcaption {
+  margin: 20px 0;
+  text-align: center;
+  font-style: italic;
+  font-size: 16px;
+}
+
+figcaption .image-credit {
+  margin-left: 10px;
+}
+
+figure.side {
+  clear: right;
+  float: right;
+  margin: 0 -120px 0 40px;
+  max-width: 360px;
+}
+
+figure.alt {
+  display: none;
+}
+
+@media (max-width: 1080px) {
+  figure.side {
+    margin-right: calc((840px - 100vw)/2);
+  }
+}
+
+@media (max-width: 840px) {
+  figure.side {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  figure.side {
+    float: none;
+    margin: 40px auto;
+  }
+
+  figure.only {
+    display: none;
+  }
+
+  figure.alt {
+    display: block;
+  }
+}
+	
