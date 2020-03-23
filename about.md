@@ -17,6 +17,8 @@ I'm the editor of two upcoming books—one on Timothy C. May, the famous cypherp
 
 I dropped out of the University of Michigan during my Sophomore year as a Classics major and am currently on the Board of Directors at the [Paideia Institute.](https://www.paideiainstitute.org/)
 
+I live in [redacted].
+
 In past lives, I've lectured on economics and career building at universities around the world.
 
 See what I'm up to [now.](/now)
