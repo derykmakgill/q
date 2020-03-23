@@ -3,6 +3,8 @@ layout: page
 title: About (short version)
 ---
 
+![Deryk Makgill](/josh/derykmakgill.jpg)
+
 I invest in and build Bitcoin businesses and projects at [19d6](https://19d6.ch).
 
 I write [here](/archive) on this site about anything that interests me. This includes [book notes](/notes) and product reviews, essays, tutorials, interviews, and personal updates.
