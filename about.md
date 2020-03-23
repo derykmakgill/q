@@ -3,7 +3,7 @@ layout: page
 title: About (short version)
 ---
 
-![Deryk Makgill](/josh/assets/derykmakgill.jpg)
+![Deryk Makgill](/assets/derykmakgill.jpg)
 
 I invest in and build Bitcoin businesses and projects at [19d6](https://19d6.ch).
 
