@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About (short version)
 ---
 
 I invest in and build Bitcoin businesses and projects at [19d6](https://19d6.ch).
