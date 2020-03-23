@@ -5,7 +5,7 @@ title: About (short version)
 
 I invest in and build Bitcoin businesses and projects at [19d6](https://19d6.ch).
 
-I write here on this site about anything that interests me.
+I write [here](/archive) on this site about anything that interests me. This includes [book notes](/notes) and product reviews, essays, tutorials, interviews, and personal updates.
 
 I work at [Bitcoin.com](https://bitcoin.com) and [GS,](/glockstore) and have previously been the Director of Marketing at [Praxis.](/praxis) Before and during that time, I did marketing for Voice & Exit, The Foundation for Economic Education, and The Objective Standard, among other companies.
 
@@ -17,10 +17,16 @@ I'm the editor of two upcoming books—one on Timothy C. May, the famous cypherp
 
 I dropped out of the University of Michigan during my Sophomore year as a Classics major and am currently on the Board of Directors at the [Paideia Institute.](https://www.paideiainstitute.org/)
 
-I live in [redacted].
-
 In past lives, I've lectured on economics and career building at universities around the world.
 
-See what I'm up to [now.](/now)
+I live in [redacted].
+
+## Links
+
+See what I'm doing [now.](/now)
+
+See a full list of [projects](/projects) I've built.
+
+See some [photos](/photos) of me and friends and family.
 
 If you like my website, you can follow me on twitter [@derykmakgill](https://twitter.com/derykmakgill).
