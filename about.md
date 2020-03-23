@@ -3,20 +3,6 @@ layout: page
 title: About
 ---
 
-<figure class="side" data-url="/M.jpg">
-  <a href="/M.jpg" target="_blank">
-    <img src="/M.jpg" alt="Clinker, hot off the kiln" loading="lazy">
-  </a>
-  <figcaption>
-    A rare photo of me in 2019
-    
-<span class="image-credit">
-        Unknown Photographer
-      </span>
-    
-  </figcaption>
-</figure>
-
 I invest in and build Bitcoin businesses and projects at [19d6](https://19d6.ch).
 
 I write here on this site about anything that interests me.
