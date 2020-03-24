@@ -33,3 +33,16 @@ See a full list of [projects](/projects) I've built.
 See some [photos](/photos) of me and friends and family.
 
 If you like my website, you can follow me on twitter [@derykmakgill](https://twitter.com/derykmakgill).
+
+## About the site
+
+This URL has been my online home for many years, manifesting at times as a blog or a portfolio until landing on this current single-column blog. Today it’s a bit of an outlet graveyard for my design-and development-related ramblings.
+
+In case you were wondering, this site is:
+
+- Designed and coded on a Mac in California
+- Coded with Atom
+- Built on Jekyll, the open source static site generator
+- Hosted on GitHub Pages
+
+You can find more about my macOS development setup in my config repo on GitHub. The design and code powering this site, however, is not available for re-use or purchase.
