@@ -488,3 +488,7 @@ figcaption .image-credit {
     margin-top: 2rem;
     font-size: 85%;
 }
+
+footer {
+	font-size: .8em;
+}
