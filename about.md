@@ -3,8 +3,6 @@ layout: page
 title: About (short version)
 ---
 
-![Deryk Makgill](/assets/deryk-finland.jpg)
-
 I invest in and build Bitcoin businesses and projects at [19d6](https://19d6.ch).
 
 I write [here](/archive) on this site.
@@ -22,3 +20,5 @@ I dropped out of the University of Michigan during my Sophomore year as a Classi
 In past lives, I've lectured on economics and career building at universities around the world.
 
 I live in ██████████.
+
+![Deryk Makgill](/assets/deryk-finland.jpg)
