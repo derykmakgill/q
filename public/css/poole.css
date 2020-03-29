@@ -469,6 +469,7 @@ figcaption .image-credit {
   display: block;
   width: auto;
   overflow: hidden;
+	margin-bottom: 30px;
 }
 
 .PageNavigation a {
@@ -480,4 +481,5 @@ figcaption .image-credit {
 
 .PageNavigation .next {
   text-align: right;
+	p
 }
