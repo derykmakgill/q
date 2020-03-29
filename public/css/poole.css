@@ -483,3 +483,8 @@ figcaption .image-credit {
   text-align: right;
 	p
 }
+
+.footnotes {
+    margin-top: 2rem;
+    font-size: 85%;
+}
