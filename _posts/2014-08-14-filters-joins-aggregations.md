@@ -13,7 +13,7 @@ required to set up the example recipes database from the
 [first post]({% post_url 2014-04-18-database-normalization %}) 
 in this series.*
 
-In this post, I will use the example recipes database from the[^1]
+In this post, I will use the example recipes database from the
 [first post]({% post_url 2014-04-18-database-normalization %}) to
 go over the basics of querying in SQL with the `SELECT` statement.
 I will start with the basic operators of filtering, joining, and
@@ -533,7 +533,7 @@ This returns just one result:
 
 # Self AND Inequality Joins
 
-The final concepts we will learn about is self and equality joins.  As[^2]
+The final concepts we will learn about is self and equality joins.  As
 a concrete example, supposed that we wanted to compute the number
 of shared ingredients for all pairs of recipes.
 
@@ -626,6 +626,3 @@ can be combined to perform very powerful queries.
 
 {% include twitter_plug.html %}
 
-[^1]: This is the first footnote.
-
-[^2]: This is the first footnote.
