@@ -9,7 +9,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Deryk Makgill
+title:            Deryk Makgill's Website
 tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
 url:              http://derykmakgill.com/josh
 shorturl:         derykmakgill.com/josh
