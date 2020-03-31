@@ -28,9 +28,8 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-  Archive: '/archive/'
   About: '/about/'
-  Support: '/support/'
+
   
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
