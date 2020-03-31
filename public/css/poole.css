@@ -1,20 +1,4 @@
 /*
- *                        ___
- *                       /\_ \
- *  _____     ___     ___\//\ \      __
- * /\ '__`\  / __`\  / __`\\ \ \   /'__`\
- * \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
- *  \ \ ,__/\ \____/\ \____//\____\ \____\
- *   \ \ \/  \/___/  \/___/ \/____/\/____/
- *    \ \_\
- *     \/_/
- *
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/poole.
- */
-
-
-/*
  * Contents
  *
  * Body resets
@@ -328,7 +312,7 @@ color: #000;
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #6f6f6f;
   font-size: .8rem;
 }
 
