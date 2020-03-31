@@ -26,7 +26,9 @@ title: Home
     <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
+        <a href="{{ post.url | relative_url }}" style="
+    text-decoration: none;
+">
           <img src="{{ post.image | relative_url }}">
         </a>
       </div>
