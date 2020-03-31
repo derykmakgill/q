@@ -29,6 +29,10 @@ github:
 # This is the list of pages to include in the header of the website.
 pages_list:       
   Archive: '/archive/'
+  
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
