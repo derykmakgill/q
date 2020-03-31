@@ -79,6 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+	color: #313131;
 }
 h1 {
 
@@ -314,7 +315,7 @@ color: #000;
 .page-title,
 .post-title,
 .post-title a {
-  color: #000;
+  color: #313131;
   text-decoration: none;
 }
 .page-title,
