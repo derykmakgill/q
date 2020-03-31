@@ -281,6 +281,7 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title a {
   color: #000;
+  text-decoration: none;
 }
 .masthead-title small {
   font-size: 75%;
@@ -307,6 +308,7 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
+  text-decoration: none;
 }
 .page-title,
 .post-title {
