@@ -19,18 +19,14 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="related">
-  <h2>Other Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<section id="home">
+<h2>Newest Articles <small><a href="/blog">see all</a></small></h2>
+<ul>
+	<li><a href="/mny">Time is personal. Your year changes when your life changes.</a></li>
+	<li><a href="/eml">Experiments in music and life</a></li>
+	<li><a href="/nod">Writing daily, but posting when ready</a></li>
+	<li><a href="/richand">How I got rich on the other hand</a></li>
+	<li><a href="/pinit2">Podcast published today</a></li>
+	<li><a href="/trd">When in doubt, try the difference</a></li>
+</ul>
+</section>
