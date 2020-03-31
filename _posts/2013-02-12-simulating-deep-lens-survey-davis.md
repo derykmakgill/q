@@ -4,6 +4,7 @@ title: Simulating the Deep Lens Survey at UC Davis
 comments: true
 redirect_from: "/2013/02/12/2006-uc-davis-reu/"
 permalink: simulating-deep-lens-survey-davis
+excerpt: The Roman Republic, the foremost power of its day, had reached its zenith. Its leadership had attained unbounded wealth and unstinted power. The rulers were intolerant of restraint, indifferent to the demands of the middle class, and contemptuous of the Constitution which was designed to curb their ambitions. The time...
 ---
 
 ![The simulated stars and galaxies from my DLS simulation I created during my 2006 physics REU.](/assets/2006_reu_internship_simulated_data-940x544.jpg)
