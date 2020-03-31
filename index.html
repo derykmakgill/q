@@ -5,7 +5,9 @@ title: Home
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-  <article class="post-preview">
+  <article class="post-preview" style="
+    margin-top: 30px;
+">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
 
@@ -17,7 +19,7 @@ title: Home
     </a>
 
     <p class="post-meta">
-      Posted on {{ post.date | date: site.date_format }}
+      Published or updated on {{ post.date | date_to_string }}
     </p>
 
     <div class="post-entry-container">
